@@ -92,19 +92,7 @@ let package = Package(
                 "IOSDesignSystem",
                 .product(name: "Lottie", package: "lottie-spm")
             ],
-            path: "Sources",
-            linkerSettings: [
-                .linkedFramework("am-sensory-branding-vid"),
-                .linkedFramework("am-sensory-branding"),
-                .linkedFramework("v-sensory-branding"),
-                .linkedFramework("ThinClient"),
-                .linkedFramework("AuthModule"),
-                .linkedFramework("CoreModule"),
-                .linkedFramework("TapToPhone"),
-                .linkedFramework("DefaultUI"),
-                .linkedFramework("m-sensory-branding"),
-                .linkedFramework("IOSDesignSystem"),
-            ]
+            path: "Sources"
         )
     ]
 )
