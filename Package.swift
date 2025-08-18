@@ -44,26 +44,26 @@ let package = Package(
         
         .binaryTarget(
             name: "AuthModule",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.AuthModule/3.0.0/com.visa.AuthModule-3.0.0.zip",
-            checksum: "9901e82e2aa2435096b2d8f98fa0dc73b628fabc50d09a0a24301708475b9dc7"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.AuthModule/3.1.0/com.visa.AuthModule-3.1.0.zip",
+            checksum: "4cf8fd43a6b92fb3c1056504cf6a9076108b009d9b790175bab2e64b2388dc26"
         ),
         
         .binaryTarget(
             name: "CoreModule",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.CoreModule/3.0.0/com.visa.CoreModule-3.0.0.zip",
-            checksum: "1f7eb8a5e321b9631d1863f8a661b67e6f06e9e05abd65e9bde565a1c2869eb5"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.CoreModule/3.1.0/com.visa.CoreModule-3.1.0.zip",
+            checksum: "6fed335f190aa926c715a5e4bd57303af38ce79af05be41c74c3cc7189efbc88"
         ),
         
         .binaryTarget(
             name: "TapToPhone",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.0.0/com.visa.TapToPhone-3.0.0.zip",
-            checksum: "caa86f573be9c7ef2ff0ee90430e3b6deeb0bab5e04b82f9e3257f1f0d19f075"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.1.0/com.visa.TapToPhone-3.1.0.zip",
+            checksum: "750e64aa481855a3ec50700733fd1a2342b5eabe01802bfc889571482cb7e3bf"
         ),
         
         .binaryTarget(
             name: "DefaultUI",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.0.0/com.visa.DefaultUI-3.0.0.zip",
-            checksum: "a33cbe5ebc562f9f2d0f7cdfd204fd1bcb38be6c127c591e8bd2373db150b721"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.1.0/com.visa.DefaultUI-3.1.0.zip",
+            checksum: "df5bf38b0d0dd54e960a9aae81eaab99932210874ea0c42c4656420b88505987"
         ),
         
         .binaryTarget(
@@ -74,8 +74,8 @@ let package = Package(
         
         .binaryTarget(
             name: "IOSDesignSystem",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.ios.designsystem/0.0.5/com.visa.ios.designsystem-0.0.5.zip",
-            checksum: "da5025604534775fa75099f2a2d35aed7f5f2427e903a8df3a09a1d2cb97d198"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.ios.designsystem/0.0.7/com.visa.ios.designsystem-0.0.7.zip",
+            checksum: "60313cf39eb7b4b423354657a2df21a87d4525b5f4a1db4eb71245fe4eca6120"
         ),
         .target(
             name: "MposUI",
