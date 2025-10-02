@@ -39,7 +39,7 @@ let package = Package(
         
         .binaryTarget(
             name: "ThinClient",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/ttp-thinclient-ios-release/25.04.28/ThinClient.xcframework-Release-25.04.28.zip",
+            url: "https://repo.visa.com/mpos-releases/io/payworks/ttp-thinclient-ios-release/25.04.28/ttp-thinclient-ios-release-25.04.28.zip",
             checksum: "09c0e852ffaad57254db9584c70be1950299d56668b89837d3ebd874123e7804"
         ),
         
