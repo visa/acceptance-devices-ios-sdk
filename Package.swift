@@ -15,7 +15,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/airbnb/lottie-spm.git", exact: Version(4,3,2)),
+        .package(url: "https://github.com/airbnb/lottie-spm.git", exact: Version(4,5,2)),
     ],
     targets: [
 
