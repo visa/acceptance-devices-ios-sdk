@@ -57,13 +57,13 @@ let package = Package(
         
         .binaryTarget(
             name: "TapToPhone",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.2.0/com.visa.TapToPhone-3.2.0.zip",
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.3.0/com.visa.TapToPhone-3.2.0.zip",
             checksum: "77b2409a9f286b08b76d24a7911eba4be16521172e65448c12c5e6513ea0e5b3"
         ),
         
         .binaryTarget(
             name: "DefaultUI",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.2.0/com.visa.DefaultUI-3.2.0.zip",
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.3.0/com.visa.DefaultUI-3.2.0.zip",
             checksum: "4af09ccaafba90b50c0737d24ca57b40d0f390fa403aeae5fdb6e68c36c82a1f"
         ),
         
