@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "MposUI",
     platforms: [
-        .iOS(.v17.4)
+        .iOS("17.4")
     ],
     products: [
         .library(
