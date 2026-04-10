@@ -75,8 +75,8 @@ let package = Package(
         
         .binaryTarget(
             name: "IOSDesignSystem",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.ios.designsystem/1.0.0/com.visa.ios.designsystem-1.0.0.zip",
-            checksum: "0ad0ec750a433eec11cc7fd0deb5afbfad340d7ac4b11403320a06ce7bd6fd70"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.ios.designsystem/1.1.0/com.visa.ios.designsystem-1.1.0.zip",
+            checksum: "e7603e5a9e9e33683310ffa1c38108feff32d5d20627139aceb7a2783662a623"
         ),
         .target(
             name: "MposUI",
