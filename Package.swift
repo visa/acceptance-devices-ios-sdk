@@ -39,32 +39,32 @@ let package = Package(
         
         .binaryTarget(
             name: "ThinClient",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/ttp-thinclient-ios-release/25.06.03/ttp-thinclient-ios-release-25.06.03.zip",
-            checksum: "980b2c60b068eb0ca75a540059ba8882397e0678d38b4ba8c520140cd854b27e"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/ttp-thinclient-ios-release/26.04.14/ttp-thinclient-ios-release-26.04.14.zip",
+            checksum: "233fdac27303a812d20274cb03e5d72442807a6c64c66e73cfcf6162e69d966d"
         ),
-        
+
         .binaryTarget(
             name: "AuthModule",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.AuthModule/3.5.0/com.visa.AuthModule-3.5.0.zip",
-            checksum: "4765e7458800083753afb9487405135e6e257487e66959dfba2da037529187fc"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.AuthModule/3.6.0/com.visa.AuthModule-3.6.0.zip",
+            checksum: "5bafadb8a415a8176aafd2aca6395fe22320702fd4879390dd3457f83bfcd9a1"
         ),
-        
+
         .binaryTarget(
             name: "CoreModule",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.CoreModule/3.5.0/com.visa.CoreModule-3.5.0.zip",
-            checksum: "0875cd9027b3d2b330a090757593462860eec6278f427fa68b4fc4146b45357e"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.CoreModule/3.6.0/com.visa.CoreModule-3.6.0.zip",
+            checksum: "bf946b940f9994291f9b276ed7e2cd33652b2a2a623ce2348477de5203ac319e"
         ),
-        
+
         .binaryTarget(
             name: "TapToPhone",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.5.0/com.visa.TapToPhone-3.5.0.zip",
-            checksum: "5ee38029233b947d4ed43d9f7cdcf5ded7925f33fd898efe235a1522f14f4bb6"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.6.0/com.visa.TapToPhone-3.6.0.zip",
+            checksum: "25b6d3fd7e51c84cd5fa41ba70b84d2c615afff281f2efd63ebd6df4cb0cbc77"
         ),
-        
+
         .binaryTarget(
             name: "DefaultUI",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.5.0/com.visa.DefaultUI-3.5.0.zip",
-            checksum: "54c32b3963f829b70b51a3f470be46abd9f97040e567864ad0b39835c9585e7f"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.6.0/com.visa.DefaultUI-3.6.0.zip",
+            checksum: "430d646b81e8494f87d1e8c24dd1a68b044728b5dca70cfde421a5203720e56d"
         ),
         
         .binaryTarget(
