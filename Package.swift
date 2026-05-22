@@ -45,26 +45,26 @@ let package = Package(
 
         .binaryTarget(
             name: "AuthModule",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.AuthModule/3.6.0/com.visa.AuthModule-3.6.0.zip",
-            checksum: "5bafadb8a415a8176aafd2aca6395fe22320702fd4879390dd3457f83bfcd9a1"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.AuthModule/3.7.0/com.visa.AuthModule-3.7.0.zip",
+            checksum: "4eb33c7a032960d2b772043f211d5bf6ca6c25c5357d220b2d113098efb439cd"
         ),
 
         .binaryTarget(
             name: "CoreModule",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.CoreModule/3.6.0/com.visa.CoreModule-3.6.0.zip",
-            checksum: "bf946b940f9994291f9b276ed7e2cd33652b2a2a623ce2348477de5203ac319e"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.CoreModule/3.7.0/com.visa.CoreModule-3.7.0.zip",
+            checksum: "9378d18242e1c3b0356d4b5bc729130aba64898e73377860787bdb731a8e4f5f"
         ),
 
         .binaryTarget(
             name: "TapToPhone",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.6.0/com.visa.TapToPhone-3.6.0.zip",
-            checksum: "25b6d3fd7e51c84cd5fa41ba70b84d2c615afff281f2efd63ebd6df4cb0cbc77"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.7.0/com.visa.TapToPhone-3.7.0.zip",
+            checksum: "ef3aa1cfb4cfffbbd3e82aaf119350fc5421af2441cf6837bfeda9c6dd2b83ce"
         ),
 
         .binaryTarget(
             name: "DefaultUI",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.6.0/com.visa.DefaultUI-3.6.0.zip",
-            checksum: "430d646b81e8494f87d1e8c24dd1a68b044728b5dca70cfde421a5203720e56d"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.7.0/com.visa.DefaultUI-3.7.0.zip",
+            checksum: "17fb070139d90b42f9c195b481f116a84957d0cd8874d9e2b66f15d4773b7fdd"
         ),
         
         .binaryTarget(
