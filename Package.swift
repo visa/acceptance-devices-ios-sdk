@@ -39,44 +39,44 @@ let package = Package(
         
         .binaryTarget(
             name: "ThinClient",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/ttp-thinclient-ios-release/26.04.14/ttp-thinclient-ios-release-26.04.14.zip",
-            checksum: "233fdac27303a812d20274cb03e5d72442807a6c64c66e73cfcf6162e69d966d"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/ttp-thinclient-ios-release/26.08.01/ttp-thinclient-ios-release-26.08.01.zip",
+            checksum: "4a5b85150aa07e564869c27edb0053067c91d650ca333774f6a19019e4610dce"
         ),
 
         .binaryTarget(
             name: "AuthModule",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.AuthModule/3.7.0/com.visa.AuthModule-3.7.0.zip",
-            checksum: "4eb33c7a032960d2b772043f211d5bf6ca6c25c5357d220b2d113098efb439cd"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.AuthModule/3.8.0/com.visa.AuthModule-3.8.0.zip",
+            checksum: "724bf4e3b74524f0de96da4d08ff1ed402b76d7c3cbb8911ae2bd99c4aad37c5"
         ),
 
         .binaryTarget(
             name: "CoreModule",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.CoreModule/3.7.0/com.visa.CoreModule-3.7.0.zip",
-            checksum: "9378d18242e1c3b0356d4b5bc729130aba64898e73377860787bdb731a8e4f5f"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.CoreModule/3.8.0/com.visa.CoreModule-3.8.0.zip",
+            checksum: "d918f20c99065416c95f8fef85cc770300ecdd650c4a3f1c5b856381bc8c41b3"
         ),
 
         .binaryTarget(
             name: "TapToPhone",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.7.0/com.visa.TapToPhone-3.7.0.zip",
-            checksum: "ef3aa1cfb4cfffbbd3e82aaf119350fc5421af2441cf6837bfeda9c6dd2b83ce"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.TapToPhone/3.8.0/com.visa.TapToPhone-3.8.0.zip",
+            checksum: "20c60486609e28471d18e8827cc8882d063f6eaca6bfa4ead384a642069eed52"
         ),
 
         .binaryTarget(
             name: "DefaultUI",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.7.0/com.visa.DefaultUI-3.7.0.zip",
-            checksum: "17fb070139d90b42f9c195b481f116a84957d0cd8874d9e2b66f15d4773b7fdd"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.DefaultUI/3.8.0/com.visa.DefaultUI-3.8.0.zip",
+            checksum: "f84dab3b566e68c700cb9d8b23e6abcd6cf0c9da0f0596ff73acf82af30505e0"
         ),
-        
+
         .binaryTarget(
             name: "m-sensory-branding",
             url: "https://repo.visa.com/mpos-releases/io/payworks/m-sensory-branding-iOS/3.2.0/m-sensory-branding-iOS-3.2.0.zip",
             checksum: "a88db7dc8fe6f6b01d125ed0f13e793c3fa7a231b39b998f72fcf6a670d40d4d"
         ),
-        
+
         .binaryTarget(
             name: "IOSDesignSystem",
-            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.ios.designsystem/1.1.0/com.visa.ios.designsystem-1.1.0.zip",
-            checksum: "e7603e5a9e9e33683310ffa1c38108feff32d5d20627139aceb7a2783662a623"
+            url: "https://repo.visa.com/mpos-releases/io/payworks/com.visa.ios.designsystem/1.2.0/com.visa.ios.designsystem-1.2.0.zip",
+            checksum: "c8db4b6d37df5e447c9816053507b5314446ecec90e6b87ab3fc3848015dc084"
         ),
         .target(
             name: "MposUI",
