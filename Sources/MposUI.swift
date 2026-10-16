@@ -13,5 +13,5 @@ public struct MposUI {
     public init() {}
     
     /// Version of the MposUI module
-    public static let version = "3.8.0"
+    public static let version = "3.9.1"
 }
